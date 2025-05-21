@@ -11,7 +11,7 @@ A simple and interactive Ping Pong scorekeeping web app built with **HTML**, **C
 
 ## 💻 Demo
 
-![App Screenshot](/Score%20Keeper/img/demo.png)
+![App Screenshot](/img/demo.png)
 
 ## 🛠️ Technologies Used
 
